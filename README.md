@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Deutsche Post is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://deutschepost.de/
+Deutsche Post AG is Germany’s leading postal and logistics services provider, offering mail, parcel, express, and e‑commerce solutions for private and business customers. It operates the Deutsche Post brand, DHL group services, and provides digital tools such as address verification, shipment tracking, and API access for partners to integrate shipping, billing, and customer communication.
+
+**Areas:** Company · Postal · Logistics · Shipping · E‑commerce
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://deutschepost.de/)
+- [Security](https://www.dpdhl.com/en/sustainability/governance/cyber-security/vulnerability-disclosure-policy.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/deutsche-post/](https://apis.io/providers/deutsche-post/).
